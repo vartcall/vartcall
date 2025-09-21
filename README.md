@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">VARTCALL</h1>
+<p align="center">
+  Web3 Developer • Solidity • Solana • Python • TypeScript
+</p>
 
-<!--
-**vartcall/vartcall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Choose your language
+- 🇬🇧 [English](https://github.com/vartcall/vartcall/tree/english)
+- 🌐 [Slavic](https://github.com/vartcall/vartcall/tree/slavic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🧑‍💻 Building in **Web3** since 2023
+- 📚 Student of **Law** & **Computer Science**
+- 🏗 Creator of **Solana from Scratch** & **Solidity Marathon**
+- ✨ Sharing my journey on [Twitter](https://x.com/vartcall) and [Telegram](https://t.me/code_vartcall)
+
+---
+
+## 🛠 Tech Stack
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vartcall&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vartcall&layout=compact&theme=radical)
+
+---
+
+<p align="center">
+  ✨ Let's build the future of Web3 together ✨
+</p>

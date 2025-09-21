@@ -6,16 +6,16 @@
 ---
 
 ## 🌐 Choose your language
-- 🇬🇧 [English](https://github.com/vartcall/vartcall/tree/english)
-- 🌐 [Slavic](https://github.com/vartcall/vartcall/tree/slavic)
+- [English](https://github.com/vartcall/vartcall/tree/english)
+- [Slavic](https://github.com/vartcall/vartcall/tree/slavic)
 
 ---
 
 ## 🚀 About Me
-- 🧑‍💻 Building in **Web3** since 2023
-- 📚 Student of **Law** & **Computer Science**
-- 🏗 Creator of **Solana from Scratch** & **Solidity Marathon**
-- ✨ Sharing my journey on [Twitter](https://x.com/vartcall) and [Telegram](https://t.me/code_vartcall)
+- Building in **Web3** since 2023
+- Student of **Law** & **Computer Science**
+- Creator of **Solana from Scratch** & **Solidity Marathon**
+- Sharing my journey on [Twitter](https://x.com/vartcall) and [Telegram](https://t.me/code_vartcall)
 
 ---
 

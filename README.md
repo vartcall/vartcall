@@ -1,25 +1,11 @@
-<h1 align="center">VARTCALL</h1>
-<p align="center">
-  Web3 Developer • Solidity • Solana • Python • TypeScript
-</p>
+<h1 >VARTCALL</h1>
 
----
-
-## 🌐 Choose your language
 - [English](https://github.com/vartcall/vartcall/tree/main/docs/english)
 - [Slavic](https://github.com/vartcall/vartcall/tree/main/docs/slavic)
 
----
+I’m a student of Law and Computer Science who found a passion in Web3. Since 2023, I’ve been building smart contracts, decentralized apps, and automation scripts in Solidity, Solana, Python, and TypeScript. I created Solidity and Solana marathons to share knowledge and make blockchain development easier for others. For me, Web3 is about freedom, ownership, and creativity — and my mission is to help more people build in this space. 
 
-## 🚀 About Me
-- Building in **Web3** since 2023
-- Student of **Law** & **Computer Science**
-- Creator of **Solana from Scratch** & **Solidity Marathon**
-- Sharing my journey on [Twitter](https://x.com/vartcall) and [Telegram](https://t.me/code_vartcall)
-
----
-
-## 🛠 Tech Stack  
+# 📖 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
@@ -41,11 +27,5 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vartcall&show_icons=true&theme=radical)
-
----
-
-<p align="center">
-  ✨ Let's build the future of Web3 together ✨
-</p>

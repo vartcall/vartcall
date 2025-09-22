@@ -1,14 +1,14 @@
 <h1 >VARTCALL</h1>
 
 <p>
-  <a href="https://www.youtube.com/@vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.youtube.com/@vartcall" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://x.com/vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X"/>
+  <a href="https://x.com/vartcall" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
-  <a href="https://t.me/code_vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/code_vartcall" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 

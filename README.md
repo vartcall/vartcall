@@ -1,22 +1,21 @@
 <h1 >VARTCALL</h1>
 
-<p align="center">
+<p>
   <a href="https://www.youtube.com/@vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://x.com/vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="Twitter/X"/>
   </a>
   <a href="https://t.me/code_vartcall" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
-
 
 - [English](https://github.com/vartcall/vartcall/tree/main/docs/english)
 - [Slavic](https://github.com/vartcall/vartcall/tree/main/docs/slavic)
 
-I’m a student of Law and Computer Science who found a passion in Web3. Since 2023, I’ve been building smart contracts, decentralized apps, and automation scripts in Solidity, Solana, Python, and TypeScript. I created Solidity and Solana marathons to share knowledge and make blockchain development easier for others. For me, Web3 is about freedom, ownership, and creativity — and my mission is to help more people build in this space. 
+I’m a student of Law and Computer Science who found a passion in Web3. Since 2023, I’ve been building smart contracts, decentralized apps, and automation scripts in Solidity, Solana, Python, and TypeScript. I created Solidity and Solana marathons to share knowledge and make blockchain development easier for others. For me, Web3 is about freedom, ownership, and creativity — and my mission is to help more people build in this space.
 
 # 📖 Languages and Tools
 
@@ -41,4 +40,5 @@ I’m a student of Law and Computer Science who found a passion in Web3. Since 2
 ---
 
 ## 📊 Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vartcall&show_icons=true&theme=radical)

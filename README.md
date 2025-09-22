@@ -2,15 +2,16 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@vartcall" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://x.com/vartcall" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter/X" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://t.me/code_vartcall" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
   </a>
 </p>
+
 
 - [English](https://github.com/vartcall/vartcall/tree/main/docs/english)
 - [Slavic](https://github.com/vartcall/vartcall/tree/main/docs/slavic)

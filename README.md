@@ -7,7 +7,7 @@
 
 ## 🌐 Choose your language
 - [English](https://github.com/vartcall/vartcall/tree/main/docs/english)
-- [Slavic](https://github.com/vartcall/vartcall/tree/slavic)
+- [Slavic](https://github.com/vartcall/vartcall/tree/main/docs/slavic)
 
 ---
 

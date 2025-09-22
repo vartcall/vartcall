@@ -1,5 +1,17 @@
 <h1 >VARTCALL</h1>
 
+<p align="center">
+  <a href="https://www.youtube.com/@vartcall" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/vartcall" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/code_vartcall" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+  </a>
+</p>
+
 - [English](https://github.com/vartcall/vartcall/tree/main/docs/english)
 - [Slavic](https://github.com/vartcall/vartcall/tree/main/docs/slavic)
 
